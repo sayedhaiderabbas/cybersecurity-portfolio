@@ -1,0 +1,17 @@
+SAYED HAIDER ABBAS
+Cybersecurity student | Ethical hacking researcher | Instructor
+Pakistan
+
+PROFILE
+Developing practical skills in defensive security, application security and security engineering. Working toward SOC analysis, detection engineering and threat hunting.
+
+SELECTED WORK
+CyberShield: personal FastAPI and React security application in development, with findings, AI-assisted explanations, reporting, monitoring and audit-trail workflows.
+SecureProof: hackathon proposal exploring AI-assisted evidence integrity and blockchain verification.
+Defensive Network Lab: pfSense and Kali on VirtualBox, including interfaces, DHCP and connectivity investigation.
+API Security Practice: local crAPI and Postman practice using Docker.
+
+PRINCIPLES
+Authorized scope. Controlled practice. Clear evidence. Continuous learning.
+
+This is a portfolio overview, not a certification record or employment history.
